@@ -18,6 +18,7 @@ h3 {text-alighn: center;
 }
 ul { 
    text-align: center;
+    display:inline;
 }
 p { text-align: right;
 }
