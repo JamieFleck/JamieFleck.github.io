@@ -2,6 +2,7 @@ body{
     background-color:rgb(243, 207, 175);
     margin: 1in;
     text-align: center;
+    border: 5px solid black;
 }
 h1 {
     text-align: center;
