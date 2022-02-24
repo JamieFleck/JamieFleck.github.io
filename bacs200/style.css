@@ -9,6 +9,9 @@ h1 {
 }
 h2 {
     text-alighn: center;
+    font-family: fantasy;
+}
+h3 {text-alighn: center;
 }
 ul { 
    text-align: center;
