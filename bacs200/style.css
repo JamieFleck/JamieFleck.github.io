@@ -18,6 +18,8 @@ h3 {text-alighn: center;
 ul { 
    text-align: center;
     display:inline;
+    display: table;
+    margin:0 auto;
 }
 p { text-align: right;
 }
