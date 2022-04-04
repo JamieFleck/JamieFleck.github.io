@@ -14,10 +14,11 @@ h2{
 	h3{
 		text-aligm:center;
 	}
+	
+ul{
+	text-align: center;
+	list-style-position: inside;}
 
 {table,
 th,
 	td{border: 3px solid black;}}
-ul{
-	text-align: center;
-	list-style-position: inside;}
