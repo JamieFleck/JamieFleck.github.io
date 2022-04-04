@@ -18,3 +18,6 @@ h2{
 {table,
 th,
 	td{border: 3px solid black;}}
+ul{
+	text-align: center;
+	list-style-position: inside;}
