@@ -1,8 +1,7 @@
 
-@font-face {
-	font-family: 'NunumMyeongjo;
-	src:url('/bacs200/NanumMyeongjo-Regular.ttf') format('truetype');
-}
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+
 
 body{
 	margin: 1in;
