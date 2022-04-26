@@ -10,18 +10,18 @@ body{
 	background-color: pink;}
 
 h1{
-	text-align: center;
+	text-align: left;
 	font-size: 50px;
 }
 h2{
-	text-align: center;
+	text-align: left;
 }
 	h3{
-		text-aligm:center;
+		text-aligm:left;
 	}
 	
 ul{
-	text-align: center;
+	text-align: left;
 	list-style-position: inside;}
 
 {table,
